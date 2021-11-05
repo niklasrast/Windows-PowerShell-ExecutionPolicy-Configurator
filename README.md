@@ -43,7 +43,7 @@ The scripts create a logfile with the name of the .ps1 script in the folder C:\W
 
 ## Requirements:
 - PowerShell 5.0
-- Windows 10
+- Windows 10 or later
 - Local admin privileges
 
 # Feature requests
